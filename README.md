@@ -4,11 +4,10 @@ CANLI : https://furkancakici.github.io/countries-app-reactjs/
 
 >Neler Kullandım/Öğrendim
 
--Neler Kullandım
--ReactJs
--ReactJs Router
--Axios
--Rest Contruies (Link)
--Font Awesome
--Bootstrap 4
--Gh-pages deploy
+1.ReactJs
+2.ReactJs Router
+3.Axios
+4.Rest Contruies (Link)
+5.Font Awesome
+6.Bootstrap 4
+7.Gh-pages deploy
