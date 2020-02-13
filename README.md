@@ -7,8 +7,8 @@ CANLI : https://furkancakici.github.io/countries-app-reactjs/
 
 ### NELER KULLANDIM/ÖĞRENDİM
 
-1.ReactJs
-2.ReactJs Router
++ReactJs
++ReactJs Router
 3.Axios
 4.Rest Contruies [LINK](https://restcountries.eu/)
 5.Font Awesome
