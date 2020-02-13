@@ -1,8 +1,11 @@
-## Ülkeler hakkında api yardımı ile bilgiler sunan bir uygulama
+# COUNTRIES-APP
+
+## ÜLKELER HAKKINDA APİ YARDIMI İLE BİLGİLER SUNAN BİR UYGULAMA
+
 
 CANLI : https://furkancakici.github.io/countries-app-reactjs/
 
-## Neler Kullandım/Öğrendim
+### NELER KULLANDIM/ÖĞRENDİM
 
 1.ReactJs
 2.ReactJs Router
