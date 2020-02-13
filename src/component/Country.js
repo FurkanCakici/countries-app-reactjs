@@ -18,8 +18,8 @@ class Country extends Component {
     render() {
         const { country } = this.state;
         return (
-            <div className="container col-12 col-md-6 offset-md-3 col-md-8 offset-md-2  col-lg-10 offset-lg-1">
-                <div className="card my-2 mx-auto" style={{ width: "60%", height: "50%" }}>
+            <div>
+                <div className="col-12 col-sm-6 col-lg-4  my-2 mx-auto">
                     <img src={country.flag} alt="flags" className="card-img-top" />
                     <div className="card-body bg-light">
                         <ul className="list-group list-group-flush bg-light">

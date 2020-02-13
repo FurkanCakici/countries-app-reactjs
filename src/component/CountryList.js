@@ -34,7 +34,7 @@ class CountryList extends Component {
             )
         })
         return (
-            <div className="my-2">
+            <div className="col-12 col-sm-11 col-lg-8 my-2 mx-auto">
                 <input type="text" className="form-control bg-light text-dark" placeholder="Ülke adı giriniz" onChange={this.searchHandler}></input>
                 <div className="card-columns my-1" >
                     {countryList}

@@ -1,7 +1,7 @@
 import React from 'react';
 import CountryList from './component/CountryList';
 import Country from './component/Country';
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
+import { HashRouter as Router, Route, Switch } from 'react-router-dom'
 import Navbar from './layout/Navbar';
 import About from './pages/About'
 import Contact from './pages/Contact'
@@ -13,7 +13,7 @@ import Welcome from './pages/Welcome';
 
 function App() {
   return (
-    <div className="container col-12 col-md-10 offset-md-1  col-lg-8 offset-lg-2 ">
+    <div>
       <Router>
         <Navbar />
         <Switch>
@@ -30,3 +30,7 @@ function App() {
 }
 
 export default App;
+
+
+
+// col-12 col-md-10 offset-md-1  col-lg-8 offset-lg-2
